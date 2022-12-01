@@ -8,7 +8,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaGalal1&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-# Technologies:
+# Lets connect:
+<p align="left">
+<a href="https://linkedin.com/in/mostafagalal1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/MostafaGalal11/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/mostafag649.mg" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
+</p>
+
+# Technologies & Tools:
 <div style="display: inline_block"><br>
  
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
