@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaGalal1&layout=compact&langs_count=20&theme=gotham"/>
 </div>
 
-# Lets connect:
+# Lets connect
 <p align="left">
 <a href="https://linkedin.com/in/mostafagalal1/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="30" width="30" /></a>
  <a href="https://www.facebook.com/MostafaGalal11/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
@@ -14,7 +14,7 @@
     <a href="https://www.hackerrank.com/Mostafa_Galal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 </p>
 
-# Technologies & Tools:
+# Technologies & Tools
 <div style="display: inline_block"><br>
  
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -33,10 +33,12 @@
   <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
   <img align="center" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
 </div>
-  
+
+  #
 <a href=#><img src="contributions.svg"></a>
-  ##
+  #
+  
+  ### <p align="center">Visitor counter<p>
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/MostafaGalal1/count.svg" />
 </p>
