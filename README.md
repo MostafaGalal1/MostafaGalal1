@@ -2,13 +2,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MostafaGalal1&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaGalal1&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-**mostafam.galal82@gmail.com**
+
 # Lets connect:
 <p align="left">
 <a href="https://linkedin.com/in/mostafagalal1/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="30" width="30" /></a>
  <a href="https://www.facebook.com/MostafaGalal11/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/mostafagalal1/" target="blank"><img align="center" src="https://www.tellmebest.com/wp-content/uploads/2022/03/discord-logo-4-1.png" height="30" width="30" /></a>
-  <a href="mostafam.galal82@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" width="30" /></a>
+  <a href="mailto:mostafam.galal82@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" width="30" /></a>
  <a href="https://codeforces.com/profile/mostafag649.mg" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=w240-h480-rw" height="40" width="40" /></a>
 </p>
 
