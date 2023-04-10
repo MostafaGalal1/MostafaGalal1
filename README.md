@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MostafaGalal1&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&title_color=2fcca3&icon_color=2fcca3&text_color=FFA718&bg_color=f6f8fa"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MostafaGalal1&show_icons=true&locale=en&layout=compact&langs_count=20&title_color=2fcca3&icon_color=2fcca3&text_color=FFA718&bg_color=f6f8fa" alt="MostafaGalal1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MostafaGalal1&show_icons=true&include_all_commits=true&count_private=true&text_color=FFA718&theme=transparent&show_icons=true"
+alt="MostafaGalal1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MostafaGalal1&show_icons=true&locale=en&layout=compact&langs_count=20&icon_color=2fcca3&text_color=FFA718&theme=transparent&show_icons=true" alt="MostafaGalal1"/>
 
 </div>
 
