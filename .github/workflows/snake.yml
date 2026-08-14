@@ -24,6 +24,26 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # snk draws a growing progress bar under the grid. Strip those rects
+      # and crop the canvas back to the grid.
+      - name: Remove the progress bar
+        run: |
+          python3 - <<'PY'
+          import re, pathlib
+          for p in pathlib.Path('dist').glob('*.svg'):
+              s = p.read_text()
+              bar_ys = [float(y) for y in re.findall(r'<rect class="u u\d+"[^>]*y="([\d.]+)"', s)]
+              s = re.sub(r'<rect class="u u\d+"[^>]*/>', '', s)
+              vb = re.search(r'viewBox="(-?[\d.]+) (-?[\d.]+) ([\d.]+) ([\d.]+)"', s)
+              if bar_ys and vb:
+                  x0, y0, w, _ = (float(v) for v in vb.groups())
+                  h = min(bar_ys) - y0 - 24
+                  s = s.replace(vb.group(0), f'viewBox="{x0:g} {y0:g} {w:g} {h:g}"')
+                  s = re.sub(r'(<svg[^>]*?)height="[\d.]+"', rf'\1height="{h:g}"', s, count=1)
+              p.write_text(s)
+              print(f'{p.name}: removed {len(bar_ys)} bar segments')
+          PY
+
       # Deploys to the `output` branch ONLY. Never target `main`: this step
       # replaces the whole branch tree, which is what wiped the previous
       # README (commit c3fb832 "Deploy to GitHub pages").

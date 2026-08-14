@@ -38,24 +38,24 @@ Currently also pursuing an **MSc in Natural Language Processing** at Alexandria 
 
 ### Experience
 
-**Software Development Engineer I** &nbsp;·&nbsp; [noon](https://www.noon.com) &nbsp;·&nbsp; <sub>Sept 2025 to Present</sub><br>
+**Software Development Engineer I** &nbsp;·&nbsp; [noon](https://www.noon.com) &nbsp;·&nbsp; Sept 2025 to Present<br>
 Backend services across noon's Logistics Management System: last-mile delivery, seller returns and warehouse operations.
 
 - Cut BigQuery spend by **~\$3K/month**, reducing scanned data from ~1.8 TB to ~0.3 TB per run (**~83%**), by re-architecting the returns enrichment pipeline around a daily dimension-staging job.
 - Took a first-mile operations dashboard from **~12s to sub-second** with a pre-aggregated, incrementally materialized read model fed by a background writer.
 - Diagnosed and fixed cross-database race conditions and two-phase-commit deadlocks in a high-throughput system, eliminating stuck shipments in production.
 
-**Software Engineer Intern** &nbsp;·&nbsp; Incorta &nbsp;·&nbsp; <sub>Aug 2025 to Sept 2025</sub>
+**Software Engineer Intern** &nbsp;·&nbsp; Incorta &nbsp;·&nbsp; Aug 2025 to Sept 2025
 
 - Built a Google Sheets data connector feeding Incorta via Parquet, letting analysts ingest external data.
 - Rolled out backend observability standards across services using OpenTelemetry, Loki, Tempo and InfluxDB.
 
-**Automation Engineer** &nbsp;·&nbsp; Everything to Gain <sub>(US startup)</sub> &nbsp;·&nbsp; <sub>Jul 2025 to Aug 2025</sub>
+**Automation Engineer** &nbsp;·&nbsp; Everything to Gain (US startup) &nbsp;·&nbsp; Jul 2025 to Aug 2025
 
 - Built an AI assistant bot with a React frontend and FastAPI backend for interactive real-time user support.
 - Automated cross-platform integrations with Zapier and n8n, and designed HubSpot CRM workflows.
 
-**Software Engineer Intern** &nbsp;·&nbsp; Applied Innovation Center (AIC-MCIT) &nbsp;·&nbsp; <sub>Aug 2024 to Sept 2024</sub>
+**Software Engineer Intern** &nbsp;·&nbsp; Applied Innovation Center (AIC-MCIT) &nbsp;·&nbsp; Aug 2024 to Sept 2024
 
 - Cut frontend Docker build time from **14m 36s to 4m 47s (3x)** by optimizing the container and build pipeline.
 - Built a multi-language translation feature streaming responses over SSE across **20+ languages**.
@@ -64,10 +64,10 @@ Backend services across noon's Logistics Management System: last-mile delivery, 
 
 ### Education
 
-**MSc, Natural Language Processing** &nbsp;·&nbsp; <sub>Sept 2025 to Present</sub><br>
+**MSc, Natural Language Processing** &nbsp;·&nbsp; Sept 2025 to Present<br>
 University of Alexandria, Faculty of Engineering
 
-**BE, Computer and Systems Engineering** &nbsp;·&nbsp; <sub>Sept 2020 to June 2025</sub><br>
+**BE, Computer and Systems Engineering** &nbsp;·&nbsp; Sept 2020 to June 2025<br>
 University of Alexandria, Faculty of Engineering. CGPA **3.85 / 4.0**, graduated **5th in class**.
 
 ---
@@ -94,8 +94,9 @@ Provider-agnostic LLM tier router that classifies each request with a small mode
 Pipeline converting an OLTP relational schema into an OLAP star schema, benchmarked against TPC-H with Parquet output.<br>
 <sub>`Python` · `NiFi` · `Spark` · `MySQL`</sub>
 
-**[CSED25 Internships](https://github.com/MostafaGalal1/CSED25_Internships)** ![stars](https://img.shields.io/github/stars/MostafaGalal1/CSED25_Internships?style=flat-square&label=&color=555)<br>
-Community-maintained internship index for Computer Engineering students, and the most-used thing I've published.
+**[Doctorkom](https://github.com/membaby/Doctorkom)**<br>
+Healthcare platform where patients discover doctors and book appointments online. Designed the 12-entity database schema, built 18 REST endpoints and role-based services, and wrote 102 unit tests reaching **94.55% coverage** alongside the CI/CD pipeline.<br>
+<sub>`Java` · `Spring Boot` · `React` · `MySQL`</sub>
 
 ---
 
