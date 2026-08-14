@@ -28,6 +28,9 @@ jobs:
       # and crop the canvas back to the grid.
       - name: Remove the progress bar
         run: |
+          # snk runs in a container as root, so dist/ lands root-owned and
+          # the runner user cannot rewrite the files in place.
+          sudo chown -R "$(id -u):$(id -g)" dist
           python3 - <<'PY'
           import re, pathlib
           for p in pathlib.Path('dist').glob('*.svg'):
