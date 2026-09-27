@@ -15,7 +15,7 @@
 
 ### About
 
-I build backend services for supply-chain and last-mile logistics at **noon**, the systems that move a package from a seller's warehouse to a customer's door. Python and FastAPI microservices on GCP, backed by MySQL, BigQuery, Pub/Sub and Temporal.
+I build backend services for supply-chain and first-mile logistics at **noon**, the systems that move a package from a seller's warehouse to a customer's door. Python and FastAPI microservices on GCP, backed by MySQL, BigQuery, Pub/Sub and Temporal.
 
 Most of my work lives in the unglamorous middle of a distributed system: event-driven workers, cross-database consistency, and the pipelines where the interesting engineering is what happens when one side fails halfway through. The problems I enjoy most are the ones measured in dollars and milliseconds, like cutting a query bill by 83%, or taking a dashboard from 12 seconds to sub-second.
 
